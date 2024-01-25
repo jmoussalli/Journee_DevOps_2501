@@ -22,6 +22,17 @@ Kubernetes - QCM : https://forms.gle/motaidXYPgFL418M6
 
 Docker - Hello World : https://nimble-echinacea-d64.notion.site/Enonc-Hello-World-Java-26cf8439217c42f4b92c20a4ae38dd2e?pvs=4
 
+Correction - Docker - Hello World : 
+
 Docker - SimpleFlask : https://nimble-echinacea-d64.notion.site/Enonc-SimpleFlask-069ef05678f14f38ab1c809fde8c891a?pvs=4
 
+Correction - Docker - SimpleFlask : https://github.com/Mossbaddi/TP_simpleflaskapp.git
+
 Docker - Nginx : https://nimble-echinacea-d64.notion.site/Enonc-Nginx-6f1f0cb5b3f3401c9d9670cc0a378d10?pvs=4
+
+Correction - Docker - Nginx : https://nimble-echinacea-d64.notion.site/Correction-Nginx-fa7e8514792c4e2580a1f6fb4289c5c1?pvs=4
+
+
+### Schéma Pipeline CI/CD
+
+![image](https://github.com/2023-12-04-poe-java-bordeaux/Journee_DevOps_2501/assets/96259026/1413af17-7bd4-40c8-b886-701b82fc8b43)
