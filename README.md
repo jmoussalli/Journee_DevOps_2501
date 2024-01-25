@@ -1,5 +1,7 @@
 ## Journée DevOps 25 Janvier
 
+Formulaire stagiaire : https://forms.monday.com/forms/f812270a17ad0b43364c7e804fd895f4?r=use1
+
 ### QCM :
 
 CI/CD - QCM : https://forms.gle/ormN1yNN1Up9LNNW8
