@@ -4,6 +4,8 @@ Formulaire stagiaire : https://forms.monday.com/forms/f812270a17ad0b43364c7e804f
 
 Commandes Linux et Docker : https://nimble-echinacea-d64.notion.site/Commandes-Linux-et-Docker-a5d0f4cb483a4283b2b60d42a6c9cab7?pvs=4
 
+Play With Docker : https://labs.play-with-docker.com/
+
 ### QCM :
 
 CI/CD - QCM : https://forms.gle/ormN1yNN1Up9LNNW8
